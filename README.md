@@ -20,9 +20,9 @@ Nos vemos lá!
 *(en-us)*
 The idea of this challenge is to design a website, using a very basic structure, using tags learned during practical classes so far. 
 
-Use all tags explained in classes: ` `: `hol<h6>`, `<p><`, ><p>`: `<><>`, `<><>`, `<><> ∆<hr>`, `<sub>`, `<sup>`
+Use all tags explained in classes: `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`
 
-Use new suggested tags: `ing, `, ` in the text (the idea is to search for these tags on the internet, understand how it works and use in the text)
+Use new suggested tags: `<font>`, `<del>`, `<p>`, `<abbr>` (the idea is to search for these tags on the internet, understand how it works and use in the text)
 
 Important says that, these tags will "follow" you throughout THE COURSE, so it is good that you are well learned to make the most of the next classes.
 
