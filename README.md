@@ -17,6 +17,8 @@ Após concluído este desafio! Siga para o <strong>Módulo II - Conceitos Básic
 
 Nos vemos lá!
 
+------------------------
+
 *(en-us)*
 The idea of this challenge is to design a website, using a very basic structure, using tags learned during practical classes so far. 
 
